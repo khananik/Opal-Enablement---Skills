@@ -1,5 +1,3 @@
-# Opal-Enablement---Skills
-
 # Optimizely Opal: Skills Guide — Interactive Training Walkthrough
 
 A polished, gamified single-page training guide that teaches teams how to configure, deploy, and manage **Opal Skills** (formerly Instructions) across an Optimizely organization.
