@@ -10,7 +10,7 @@ A polished, gamified single-page training guide that teaches teams how to config
 
 ![Vanilla JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![License](https://img.shields.io/badge/License-Internal-lightgrey)---
+![License](https://img.shields.io/badge/License-Internal-lightgrey)
 
 ## Overview
 
